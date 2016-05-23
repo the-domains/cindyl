@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cindyl]]></title>
+        <description><![CDATA[cindyl]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 May 2016 21:19:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A New Beginning]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/444de4d5-ab7b-4d4e-bf49-d10035c0f29e.jpg">]]></description>
+            <link>undefineda-new-beginning/index.html</link>
+            <guid isPermaLink="false">4fb89fe2-6033-4b90-85a1-b036794d14e8</guid>
+            <pubDate>Mon, 23 May 2016 21:19:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
