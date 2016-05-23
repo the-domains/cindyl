@@ -1,7 +1,7 @@
 name: cindyl
 favicon: null
-layout_spectrum: 0.6646123910322785
-typography_spectrum: 0.6524295650888234
+layout_spectrum: 0
+typography_spectrum: 0.37803
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8567787383217365
+    - '#e5e1d8'
+    - '#35182c'
+    - '#986d76'
+    - '#cbbeb6'
+    - '#764d5d'
+  brandStrength: 0.875
   lightness: 0.8624047990888357
   saturation: 0.8053875144105405
   rhythmicContrast: 0.8422164774965495
